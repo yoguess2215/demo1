@@ -5,7 +5,6 @@ def checkOddEven(x):
       return 
     else:
         print("It is odd")
-        # Complete the statement below
         return
 
 x = checkOddEven(6)
